@@ -1,0 +1,70 @@
+
+.form-controll{
+   margin-right: 5px;
+    border: 3px solid #112D4E;
+    border-radius: 25px;
+    padding: 7px;
+    width: 390px;
+}
+.btn1{
+    border: 3px solid #112D4E;
+    border-radius: 25px;
+    padding: 7px;
+}
+.save{
+    margin-right: 10px;
+
+}
+.location{
+    margin-right: 10px;
+}
+.login{
+    text-decoration: dashed;
+    font-size: 20px;
+    font-family: verdana;
+    margin-right: 20px;
+    border-radius: 8px;
+    border: transparent;
+    background-color: transparent
+}
+.daftar{
+    text-decoration: dashed;
+    font-size: 20px;
+    font-family: verdana;
+    margin-right: 20px;
+    border-radius: 8px;
+    border: transparent;
+    background-color: transparent
+}
+.my{
+    text-decoration: dashed;
+    font-size: 20px;
+    font-family: verdana;
+    margin-left: 300px;
+    border-radius: 8px;
+    margin-right: 20px;
+    border: transparent;
+    background-color: transparent
+}
+.feed{
+    border: transparent;
+    background-color: transparent
+}
+
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    align-items: baseline;
+ 
+}
+.error {
+    color: #FF0000;
+}
+
